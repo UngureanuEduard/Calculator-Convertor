@@ -1,4 +1,4 @@
-namespace Tema_4
+namespace Calculator
 {
     public partial class Form1 : Form
     {
