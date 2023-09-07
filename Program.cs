@@ -1,4 +1,4 @@
-namespace Tema_4
+namespace Calculator
 {
     internal static class Program
     {
